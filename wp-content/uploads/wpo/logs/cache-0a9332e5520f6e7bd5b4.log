@@ -1,0 +1,283 @@
+[2025-01-07 10:18:15 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-01-07 10:22:28 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-01-07 10:22:59 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-01-07 10:30:04 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-01-10 12:11:39 : INFO] - Cache for URL: https://www.medianet.srl/offerta-fibra-casa-medianet/ has been purged, triggered by action: save_post 
+[2025-01-10 12:12:28 : INFO] - Cache for URL: https://www.medianet.srl/offerta-fibra-casa-medianet/ has been purged, triggered by action: save_post 
+[2025-01-10 12:15:15 : INFO] - Cache for URL: https://www.medianet.srl/offerta-fibra-casa-medianet/ has been purged, triggered by action: save_post 
+[2025-01-21 08:24:29 : INFO] - Cache for URL: https://www.medianet.srl/?p=1754 has been purged, triggered by action: save_post 
+[2025-01-21 08:24:29 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1754 has been purged, triggered by action: save_post 
+[2025-01-21 08:24:29 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-01-21 09:06:44 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-01-21 09:07:21 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-01-28 10:55:15 : INFO] - Cache for URL: https://www.medianet.srl/aziende/ has been purged, triggered by action: save_post 
+[2025-01-28 11:01:31 : INFO] - Cache for URL: https://www.medianet.srl/enti-pubblici/ has been purged, triggered by action: save_post 
+[2025-01-28 11:03:44 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-02-12 09:40:26 : INFO] - Cache for URL: https://www.medianet.srl/?p=1760 has been purged, triggered by action: save_post 
+[2025-02-12 09:40:26 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1760 has been purged, triggered by action: save_post 
+[2025-02-12 09:40:26 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-02-12 09:41:23 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:45:24 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:54:18 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:54:47 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:55:26 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:56:12 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:59:00 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 09:59:49 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1761 has been purged, triggered by action: save_post 
+[2025-02-12 10:00:17 : INFO] - Cache for URL: https://www.medianet.srl/lavora-con-noi/ has been purged, triggered by action: save_post 
+[2025-02-12 10:03:09 : INFO] - Cache for URL: https://www.medianet.srl/lavora-con-noi/ has been purged, triggered by action: save_post 
+[2025-02-12 10:03:34 : INFO] - Cache for URL: https://www.medianet.srl/lavora-con-noi/ has been purged, triggered by action: save_post 
+[2025-02-12 10:05:03 : INFO] - Cache for URL: https://www.medianet.srl/lavora-con-noi/ has been purged, triggered by action: save_post 
+[2025-02-12 10:05:13 : INFO] - Cache for URL: https://www.medianet.srl/lavora-con-noi/ has been purged, triggered by action: save_post 
+[2025-02-12 10:05:43 : INFO] - Cache for URL: https://www.medianet.srl/lavora-con-noi/ has been purged, triggered by action: save_post 
+[2025-02-12 10:06:41 : INFO] - Cache for URL: https://www.medianet.srl/lavoro/ has been purged, triggered by action: save_post 
+[2025-02-14 09:59:12 : INFO] - Cache for URL: https://www.medianet.srl/aziende/ has been purged, triggered by action: save_post 
+[2025-02-18 15:11:48 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-02-18 15:14:57 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1778 has been purged, triggered by action: save_post 
+[2025-02-18 15:19:38 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:23:34 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:28:04 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:41:00 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:50:54 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:56:11 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:56:57 : INFO] - Cache for URL: https://www.medianet.srl/medianet-microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:57:58 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 15:59:56 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:02:53 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:04:24 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:08:01 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:09:24 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:09:54 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:10:50 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:11:22 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:11:57 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:12:31 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:13:11 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:15:57 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:17:47 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:20:22 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:38:55 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-18 16:40:40 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-19 09:14:13 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-19 09:14:43 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-19 09:19:14 : INFO] - Cache for URL: https://www.medianet.srl/microbusiness/ has been purged, triggered by action: save_post 
+[2025-02-19 09:40:21 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1810 has been purged, triggered by action: save_post 
+[2025-02-19 09:55:53 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1810 has been purged, triggered by action: save_post 
+[2025-02-19 09:57:27 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 09:57:45 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:01:58 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:02:56 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:03:21 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:06:08 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:07:41 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:08:08 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:08:31 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:09:07 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-19 10:19:47 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-26 10:53:05 : INFO] - Cache for URL: https://www.medianet.srl/?p=1824 has been purged, triggered by action: save_post 
+[2025-02-26 10:53:05 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1824 has been purged, triggered by action: save_post 
+[2025-02-26 10:53:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-02-26 10:56:50 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-26 11:00:04 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-02-26 11:01:12 : INFO] - Cache for URL: https://www.medianet.srl/voucher/ has been purged, triggered by action: save_post 
+[2025-03-13 10:15:15 : INFO] - Cache for URL: https://www.medianet.srl/?p=1827 has been purged, triggered by action: save_post 
+[2025-03-13 10:15:15 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1827 has been purged, triggered by action: save_post 
+[2025-03-13 10:15:15 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-04-01 07:10:18 : INFO] - Cache for URL: https://www.medianet.srl/?p=1828 has been purged, triggered by action: save_post 
+[2025-04-01 07:10:18 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1828 has been purged, triggered by action: save_post 
+[2025-04-01 07:10:18 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-04-01 07:12:24 : INFO] - Cache for URL: https://www.medianet.srl/info-utili-al-consumatore/ has been purged, triggered by action: save_post 
+[2025-04-01 07:33:52 : INFO] - Cache for URL: https://www.medianet.srl/info-utili-al-consumatore/ has been purged, triggered by action: save_post 
+[2025-04-10 08:16:41 : INFO] - Cache for URL: https://www.medianet.srl/?p=1834 has been purged, triggered by action: save_post 
+[2025-04-10 08:16:41 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1834 has been purged, triggered by action: save_post 
+[2025-04-10 08:16:41 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-04-10 08:20:04 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-04-10 08:22:36 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-04-10 08:25:26 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-04-18 08:49:55 : INFO] - Cache for URL: https://www.medianet.srl/guide-e-assistenza/ has been purged, triggered by action: save_post 
+[2025-04-18 08:54:49 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1845 has been purged, triggered by action: save_post 
+[2025-04-18 08:55:31 : INFO] - Cache for URL: https://www.medianet.srl/modalita-di-pagamento/ has been purged, triggered by action: save_post 
+[2025-04-18 08:55:41 : INFO] - Cache for URL: https://www.medianet.srl/pagamento/ has been purged, triggered by action: save_post 
+[2025-04-18 08:57:43 : INFO] - Cache for URL: https://www.medianet.srl/pagamento/ has been purged, triggered by action: save_post 
+[2025-04-18 09:10:59 : INFO] - Cache for URL: https://www.medianet.srl/guide-e-assistenza/ has been purged, triggered by action: save_post 
+[2025-05-07 07:14:05 : INFO] - Cache for URL: https://www.medianet.srl/?p=1851 has been purged, triggered by action: save_post 
+[2025-05-07 07:14:05 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1851 has been purged, triggered by action: save_post 
+[2025-05-07 07:14:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-05-07 08:18:33 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1852 has been purged, triggered by action: save_post 
+[2025-05-07 08:20:02 : INFO] - Cache for URL: https://www.medianet.srl/test-copertura-2025/ has been purged, triggered by action: save_post 
+[2025-05-07 08:37:02 : INFO] - Cache for URL: https://www.medianet.srl/test-copertura-2025/ has been purged, triggered by action: save_post 
+[2025-05-13 09:59:36 : INFO] - Cache for URL: https://www.medianet.srl/offerta-fibra-casa-medianet/ has been purged, triggered by action: save_post 
+[2025-05-13 10:03:32 : INFO] - Cache for URL: https://www.medianet.srl/offerta-fibra-casa-medianet/ has been purged, triggered by action: save_post 
+[2025-05-14 07:33:41 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-05-15 06:56:42 : INFO] - Cache for URL: https://www.medianet.srl/?p=1857 has been purged, triggered by action: save_post 
+[2025-05-15 06:56:42 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1857 has been purged, triggered by action: save_post 
+[2025-05-15 06:56:42 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-05-15 07:05:38 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-05-22 14:09:00 : INFO] - Cache for URL: https://www.medianet.srl/?p=1858 has been purged, triggered by action: save_post 
+[2025-05-22 14:09:00 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1858 has been purged, triggered by action: save_post 
+[2025-05-22 14:09:00 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-06-23 07:45:26 : INFO] - Cache for URL: https://www.medianet.srl/?p=1859 has been purged, triggered by action: save_post 
+[2025-06-23 07:45:26 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1859 has been purged, triggered by action: save_post 
+[2025-06-23 07:45:26 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-06-26 07:45:14 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-06-27 07:33:11 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1861 has been purged, triggered by action: save_post 
+[2025-06-27 07:42:46 : INFO] - Cache for URL: https://www.medianet.srl/1861-2/ has been purged, triggered by action: save_post 
+[2025-06-27 07:43:04 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 07:43:55 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 07:44:17 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 07:55:10 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 07:55:55 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 07:58:13 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 07:58:29 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:14:55 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:15:28 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:16:01 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:16:27 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:18:56 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:22:27 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:50:12 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:50:36 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:51:02 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 08:51:22 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:06:27 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:08:24 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:19:01 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:20:04 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:24:30 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:25:27 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:31:45 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:33:39 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:34:44 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:37:13 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:39:14 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:39:52 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:40:16 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:51:16 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:51:50 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-06-27 09:54:55 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-06-27 09:57:05 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-06-27 09:58:04 : INFO] - Cache for URL: https://www.medianet.srl/casa/ has been purged, triggered by action: save_post 
+[2025-06-30 07:14:11 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-07-03 09:12:31 : INFO] - Cache for URL: https://www.medianet.srl/?p=1900 has been purged, triggered by action: save_post 
+[2025-07-03 09:12:31 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1900 has been purged, triggered by action: save_post 
+[2025-07-03 09:12:31 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-07-03 09:25:02 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-07-03 09:26:03 : INFO] - Cache for URL: https://www.medianet.srl/medianetopen/ has been purged, triggered by action: save_post 
+[2025-07-10 07:35:35 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-07-10 07:44:38 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-07-10 08:05:28 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-07-24 09:26:47 : INFO] - Cache for URL: https://www.medianet.srl/?p=1903 has been purged, triggered by action: save_post 
+[2025-07-24 09:26:47 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1903 has been purged, triggered by action: save_post 
+[2025-07-24 09:26:47 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-07-24 09:27:16 : INFO] - Cache for URL: https://www.medianet.srl/connettivita-pregiata/ has been purged, triggered by action: save_post 
+[2025-07-24 09:39:04 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-07-24 09:39:16 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-07-24 09:40:07 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-08-08 10:35:15 : INFO] - Cache for URL: https://www.medianet.srl/?p=1905 has been purged, triggered by action: save_post 
+[2025-08-08 10:35:15 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1905 has been purged, triggered by action: save_post 
+[2025-08-08 10:35:15 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-08-29 07:13:36 : INFO] - Cache for URL: https://www.medianet.srl/?p=1906 has been purged, triggered by action: save_post 
+[2025-08-29 07:13:36 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1906 has been purged, triggered by action: save_post 
+[2025-08-29 07:13:36 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-08-29 07:16:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-08-29 07:17:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-08-29 07:17:49 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-08-29 07:20:59 : INFO] - Cache for URL: https://www.medianet.srl/lineasicura/ has been purged, triggered by action: save_post 
+[2025-08-29 07:22:21 : INFO] - Cache for URL: https://www.medianet.srl/lineasicura/ has been purged, triggered by action: save_post 
+[2025-08-29 07:22:54 : INFO] - Cache for URL: https://www.medianet.srl/lineasicura/ has been purged, triggered by action: save_post 
+[2025-08-29 07:23:37 : INFO] - Cache for URL: https://www.medianet.srl/lineasicura/ has been purged, triggered by action: save_post 
+[2025-08-29 07:24:00 : INFO] - Cache for URL: https://www.medianet.srl/lineasicura/ has been purged, triggered by action: save_post 
+[2025-08-29 07:31:27 : INFO] - Cache for URL: https://www.medianet.srl/lineasicura/ has been purged, triggered by action: save_post 
+[2025-10-02 10:33:30 : INFO] - Cache for URL: https://www.medianet.srl/?p=1913 has been purged, triggered by action: save_post 
+[2025-10-02 10:33:30 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1913 has been purged, triggered by action: save_post 
+[2025-10-02 10:33:30 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-10-29 11:32:15 : INFO] - Cache for URL: https://www.medianet.srl/?p=1914 has been purged, triggered by action: save_post 
+[2025-10-29 11:32:15 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1914 has been purged, triggered by action: save_post 
+[2025-10-29 11:32:15 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-10-29 11:33:21 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-29 11:36:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-11-10 09:22:29 : INFO] - Cache for URL: https://www.medianet.srl/?p=1915 has been purged, triggered by action: save_post 
+[2025-11-10 09:22:29 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1915 has been purged, triggered by action: save_post 
+[2025-11-10 09:22:29 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-11-26 10:41:22 : INFO] - Cache for URL: https://www.medianet.srl/?p=1916 has been purged, triggered by action: save_post 
+[2025-11-26 10:41:22 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1916 has been purged, triggered by action: save_post 
+[2025-11-26 10:41:22 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-11-26 10:45:03 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-11-26 10:45:32 : INFO] - Cache for URL: https://www.medianet.srl/?page_id=1917 has been purged, triggered by action: save_post 
+[2025-11-26 10:46:09 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 10:48:18 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 10:52:32 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:04:37 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:07:41 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:09:36 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:10:24 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:10:48 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:15:37 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:16:16 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:16:32 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:18:15 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:18:53 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:20:10 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:21:03 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:22:03 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:22:46 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:30:22 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:40:45 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:42:35 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:44:50 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:45:27 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:46:19 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:47:55 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:48:18 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:58:11 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 11:58:58 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:05:23 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:11:59 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:14:48 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:23:12 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:25:49 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:26:51 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:27:24 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-26 12:28:20 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 08:51:38 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 08:54:34 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:07:47 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:08:27 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:12:35 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:12:43 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:19:18 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:23:20 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:23:50 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:24:32 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:25:34 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:28:54 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:29:35 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:30:41 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:33:09 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:33:49 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:38:34 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:47:44 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:48:51 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:49:30 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:50:25 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:51:25 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:55:58 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:57:31 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:57:59 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:58:20 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 09:58:50 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:00:25 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:01:08 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:08:19 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:10:38 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:54:26 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:55:23 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-11-27 10:57:00 : INFO] - Cache for URL: https://www.medianet.srl/informazioni-consumatore/ has been purged, triggered by action: save_post 
+[2025-12-03 11:39:45 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-12-04 08:45:01 : INFO] - Cache for URL: https://www.medianet.srl/?p=1996 has been purged, triggered by action: save_post 
+[2025-12-04 08:45:01 : INFO] - Cache for previous post (with URL: https://www.medianet.srl/scegli-lineasicura-medianet-e-naviga-sempre/) adjacent to post with id: 1996 has been purged, triggered by action: save_post 
+[2025-12-04 08:45:01 : INFO] - Cache for all archives page associated with post_type: post and Title: "Bozza automatica" have been purged, triggered by action: save_post 
+[2025-12-04 09:09:56 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-12-04 09:12:12 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-12-04 09:13:51 : INFO] - Cache for URL: https://www.medianet.srl/ has been purged, triggered by action: save_post 
+[2025-12-04 09:20:31 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
